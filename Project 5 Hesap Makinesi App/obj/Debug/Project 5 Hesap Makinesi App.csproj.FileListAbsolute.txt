@@ -1,0 +1,7 @@
+C:\Users\mrt_b\source\repos\Project 5 Hesap Makinesi App\Project 5 Hesap Makinesi App\bin\Debug\Project 5 Hesap Makinesi App.exe.config
+C:\Users\mrt_b\source\repos\Project 5 Hesap Makinesi App\Project 5 Hesap Makinesi App\bin\Debug\Project 5 Hesap Makinesi App.exe
+C:\Users\mrt_b\source\repos\Project 5 Hesap Makinesi App\Project 5 Hesap Makinesi App\bin\Debug\Project 5 Hesap Makinesi App.pdb
+C:\Users\mrt_b\source\repos\Project 5 Hesap Makinesi App\Project 5 Hesap Makinesi App\obj\Debug\Project 5 Hesap Makinesi App.csprojAssemblyReference.cache
+C:\Users\mrt_b\source\repos\Project 5 Hesap Makinesi App\Project 5 Hesap Makinesi App\obj\Debug\Project 5 Hesap Makinesi App.csproj.CoreCompileInputs.cache
+C:\Users\mrt_b\source\repos\Project 5 Hesap Makinesi App\Project 5 Hesap Makinesi App\obj\Debug\Project 5 Hesap Makinesi App.exe
+C:\Users\mrt_b\source\repos\Project 5 Hesap Makinesi App\Project 5 Hesap Makinesi App\obj\Debug\Project 5 Hesap Makinesi App.pdb
